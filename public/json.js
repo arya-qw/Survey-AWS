@@ -132,6 +132,16 @@ const json = {
             "name": "The form interface was intuitive",
             "title": "The form interface was intuitive",
             "isRequired": true
+          },
+          {
+            "type": "file",
+            "name": "file",
+            "title": "Upload a photo of your car or a travel ticket\n"
+          },
+          {
+            "type": "comment",
+            "name": "comment",
+            "title": "Do you have any additional feedback?"
           }
         ]
       }
